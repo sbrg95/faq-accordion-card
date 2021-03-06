@@ -1,3 +1,15 @@
+:root {
+  --clr-primary: hsl(238, 29%, 16%);
+  --clr-accent: hsl(14, 88%, 65%);
+  --clr-neutral-300: hsl(240, 6%, 50%);
+  --clr-neutral-400: hsl(237, 12%, 33%);
+  --clr-divider: hsl(240, 5%, 91%);
+  --clr-grad-top: hsl(273, 75%, 66%);
+  --clr-grad-bottom: hsl(240, 73%, 65%);
+  --ff-primary: 'Kumbh Sans', sans-serif;
+  --fs-body: 0.75rem;
+}
+
 *,
 *::before,
 *::after {
